@@ -1,4 +1,4 @@
 # leetcode
 
 - [Easy](Easy/README.md)
-- Medium
+- [Medium](Medium/README.md)
