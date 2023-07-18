@@ -5,3 +5,4 @@
 3. [collections.OrderedDict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) / [Solution](Collections.OrderedDict/Solution.py)
 4. [incorrect-regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) / [Solution](Incorrect-regex/Solution.py)
 5. [py-set-add](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true) / [Solution](Py-set-add/Solution.py)
+6. [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) / [Solution](Py-set-discard-remove-pop/Solution.py)
