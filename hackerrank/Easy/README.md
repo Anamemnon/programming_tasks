@@ -7,4 +7,5 @@
 5. [py-set-add](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true) / [Solution](Py-set-add/Solution.py)
 6. [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) / [Solution](Py-set-discard-remove-pop/Solution.py)
 7. [collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true) / [Solution](Collections.deque()/Solution.py)
-8. 
+8. [py-set-union](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) / [Solution](Py-set-union/Solution.py)
+9. 
