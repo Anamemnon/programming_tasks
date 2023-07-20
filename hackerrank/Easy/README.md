@@ -8,4 +8,5 @@
 6. [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) / [Solution](Py-set-discard-remove-pop/Solution.py)
 7. [collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true) / [Solution](Collections.deque()/Solution.py)
 8. [py-set-union](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true) / [Solution](Py-set-union/Solution.py)
-9. 
+9. [py-set-intersection-operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true) / [Solution](Py-set-intersection-operation/Solution.py)
+
