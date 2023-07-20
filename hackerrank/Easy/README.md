@@ -11,5 +11,6 @@
 9. [py-set-intersection-operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true) / [Solution](Py-set-intersection-operation/Solution.py)
 10. [python-mod-divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true) / [Solution](Python-mod-divmod/Solution.py)
 11. [python-power-mod-power](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true) / [Solution](Python-power-mod-power/Solution.py)
-12. 
+12. [python-integers-come-in-all-sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) / [Solution](Python-integers-come-in-all-sizes/Solution.py)
+13. 
 
