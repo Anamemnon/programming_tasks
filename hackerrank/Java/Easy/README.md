@@ -7,3 +7,4 @@
 5. [java-output-formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) / [Solution](java-output-formatting/src/Main.java)
 6. [java-loops-i](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) / [Solution](java-loops-i/src/Main.java)
 7. [java-loops](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) / [Solution](java-loops/src/Main.java)
+8. [java-datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true) / [Solution](java-datatypes/src/Main.java)
