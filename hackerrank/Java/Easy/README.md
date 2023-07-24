@@ -13,4 +13,5 @@
 11. [java-int-to-string](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) / [Solution](java-int-to-string/src/Main.java)
 12. [java-date-and-time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) / [Solution](java-date-and-time/src/Main.java)
 13. [java-currency-formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) / [Solution](java-currency-formatter/src/Main.java)
-14. 
+14. [java-strings-introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true) / [Solution](java-strings-introduction/src/Main.java)
+15. 
