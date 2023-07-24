@@ -11,4 +11,5 @@
 9. [java-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) / [Solution](java-end-of-file/src/Main.java)
 10. [java-static-initializer-block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) / [Solution](java-static-initializer-block/src/Main.java)
 11. [java-int-to-string](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) / [Solution](java-int-to-string/src/Main.java)
-12. 
+12. [java-date-and-time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) / [Solution](java-date-and-time/src/Main.java)
+13. 
