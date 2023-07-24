@@ -12,4 +12,5 @@
 10. [java-static-initializer-block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) / [Solution](java-static-initializer-block/src/Main.java)
 11. [java-int-to-string](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) / [Solution](java-int-to-string/src/Main.java)
 12. [java-date-and-time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) / [Solution](java-date-and-time/src/Main.java)
-13. 
+13. [java-currency-formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) / [Solution](java-currency-formatter/src/Main.java)
+14. 
