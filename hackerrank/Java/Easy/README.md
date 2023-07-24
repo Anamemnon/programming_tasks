@@ -9,4 +9,5 @@
 7. [java-loops](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) / [Solution](java-loops/src/Main.java)
 8. [java-datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true) / [Solution](java-datatypes/src/Main.java)
 9. [java-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) / [Solution](java-end-of-file/src/Main.java)
-10. 
+10. [java-static-initializer-block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) / [Solution](java-static-initializer-block/src/Main.java)
+11. 
