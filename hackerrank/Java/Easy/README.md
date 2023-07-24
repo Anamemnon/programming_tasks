@@ -14,4 +14,5 @@
 12. [java-date-and-time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) / [Solution](java-date-and-time/src/Main.java)
 13. [java-currency-formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) / [Solution](java-currency-formatter/src/Main.java)
 14. [java-strings-introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true) / [Solution](java-strings-introduction/src/Main.java)
-15. 
+15. [java-substring](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true) / [Solution](java-substring/src/Main.java)
+16. 
