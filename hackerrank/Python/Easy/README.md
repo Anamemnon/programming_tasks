@@ -14,5 +14,6 @@
 12. [python-integers-come-in-all-sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) / [Solution](Python-integers-come-in-all-sizes/Solution.py)
 13. [polar-coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) / [Solution](Polar-coordinates/Solution.py)
 14. [py-set-mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true) / [Solution](Py-set-mutations/Solution.py)
-15. 
+15. [py-the-captains-room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true) / [Solution](Py-the-captains-room/Solution.py)
+16. 
 
