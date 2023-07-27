@@ -13,5 +13,6 @@
 11. [python-power-mod-power](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true) / [Solution](Python-power-mod-power/Solution.py)
 12. [python-integers-come-in-all-sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) / [Solution](Python-integers-come-in-all-sizes/Solution.py)
 13. [polar-coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) / [Solution](Polar-coordinates/Solution.py)
-14. 
+14. [py-check-strict-superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true) / [Solution](Py-check-strict-superset/Solution.py)
+15. 
 
