@@ -19,5 +19,6 @@
 17. [py-check-subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true) / [Solution](Py-check-subset/Solution.py)
 18. [class-2-find-the-torsional-angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true) / [Solution](Class-2-find-the-torsional-angle/Solution.py)
 19. [zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) / [Solution](Zipped/Solution.py)
-20. 
+20. [input](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true) / [Solution](Input/Solution.py)
+21. 
 
