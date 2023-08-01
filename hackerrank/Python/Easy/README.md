@@ -21,5 +21,6 @@
 19. [zipped](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) / [Solution](Zipped/Solution.py)
 20. [input](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true) / [Solution](Input/Solution.py)
 21. [python-eval](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true) / [Solution](Python-eval/Solution.py)
-22. 
+22. [introduction-to-regex](https://www.hackerrank.com/challenges/introduction-to-regex?isFullScreen=true) / [Solution](Introduction-to-regex/Solution.py)
+23. 
 
