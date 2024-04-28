@@ -19,4 +19,5 @@
 1. [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/) / [Solution](2235.%20Add%20Two%20Integers/Rust/Solution/src/main.rs)
 1. [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) / [Solution](2469.%20Convert%20the%20Temperature/Rust/Solution/src/main.rs)
 1. [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) / [Solution](2574.%20Left%20and%20Right%20Sum%20Differences/Rust/Solution/src/main.rs)
+2. [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/) / [Solution](3110.%20Score%20of%20a%20String/Python/Solution.py)
 
