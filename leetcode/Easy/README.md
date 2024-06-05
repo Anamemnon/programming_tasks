@@ -10,6 +10,7 @@
 1. [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) / [Solution](1071.%20Greatest%20Common%20Divisor%20of%20Strings/Python/Solution.py)
 8. [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) / [Solution](1108.%20Defanging%20an%20IP%20Address/Rust/Solution/src/main.rs)
 9. [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) / [Solution](./1389.%20Create%20Target%20Array%20in%20the%20Given%20Order/Rust/Solution/src/main.rs)
+1. [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) / [Solution](1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/Python/Solution.py)
 10. [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) / [Solution](1470.%20Shuffle%20the%20Array/Rust/Solution/src/main.rs)
 11. [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/) / [Solution](1720.%20Decode%20XORed%20Array/Python/Solution.py)  
 12. [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) / [Solution](1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/Solution.sql)
