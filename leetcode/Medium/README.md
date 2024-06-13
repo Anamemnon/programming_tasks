@@ -9,4 +9,5 @@
 5. [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description) / [Solution](1657.%20Determine%20if%20Two%20Strings%20Are%20Close/Python/Solution.py)
 6. [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) / [Solution](1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/Rust/src/main.rs)
 7. [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description) / [Solution](2352.%20Equal%20Row%20and%20Column%20Pairs/Python/Solution.py)
+8. [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description) / [Solution](2390.%20Removing%20Stars%20From%20a%20String/Python/Solution.py)
   
